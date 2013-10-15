@@ -1,4 +1,5 @@
 $(document).ready(function() {
+	// facebook button		
 	$('#facebook').click(function () {
 		$('.facebook-column').toggleClass('visible');
 		$('#facebook-bubble').toggleClass('facebook-bubble-on');		
@@ -26,6 +27,7 @@ $(document).ready(function() {
 			return false;
 		}
     });
+	// twitter button		
 	$('#twitter').click(function () {
 		$('.twitter-column').toggleClass('visible');
 		$('#twitter-bubble').toggleClass('twitter-bubble-on');		
@@ -53,6 +55,7 @@ $(document).ready(function() {
 			return false;
 		}		
     });
+	// instagram button	
 	$('#instagram').click(function () {
 		$('.instagram-column').toggleClass('visible');
 		$('#instagram-bubble').toggleClass('instagram-bubble-on');		
