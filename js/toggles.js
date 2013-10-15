@@ -80,6 +80,7 @@ $(document).ready(function() {
 			return false;
 		}		
     });
+	// info button
 	$('.info-button').click(function () {	
 		$('.info').toggleClass('visible');
 		$('.info-button').toggleClass('info-button-active');
