@@ -13,16 +13,16 @@
 	<script src="js/clickable.js"></script>
 	<script src="js/jquery.applink.js"></script>
 	<script src="js/toggles.js"></script>
-	<script>
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-44846086-1', 'uow.me');
+  ga('create', 'UA-45096440-1', 'uow.me');
   ga('send', 'pageview');
 
-	</script>
+</script>
 	<script>	
 		$(document).ready(function() {		
 			$( "#content" ).load( "fetchers/fetcher.php .listeventbg1, .listeventbg2" );
