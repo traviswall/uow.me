@@ -31,7 +31,7 @@
 </head>
 <body>
 	<div class="wrapper">
-		<header class="link">
+		<header>
 			<h1><a href="http://www.uow.me">UOW.me</a></h1>
 <div class="info-button"></div>
 		</header>
